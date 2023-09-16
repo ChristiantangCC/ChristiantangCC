@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey welcome to my page!<br>I'm Christian, a 26 year old passionate Frontend Developer from Denmark, currently living in Viborg.<br><br>At the moment I'm working on a multitude of projects ranging from small custom web components to new Shopify store fronts.<br><br> Currently learning:<br>  * Typescript & PHP
+Hey welcome to my page!<br>I'm Christian, a 26 year old passionate Frontend Developer from Denmark, currently living in Viborg.<br><br>At the moment I'm working on a multitude of projects ranging from reusable custom web components to new Shopify store fronts.<br><br> Currently learning:<br>  * Typescript & PHP
 
 
 ## 🌐 Socials:
