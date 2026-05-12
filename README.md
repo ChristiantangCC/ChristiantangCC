@@ -20,6 +20,22 @@ I care about pragmatic architecture, clean DX, and shipping things that don't br
 
 ---
 
+## 🚀 Recent Highlights
+
+**[Edition ‑ Expansion Store Sync](https://apps.shopify.com/edition-expansion-store-sync)** — Shopify App Store *(launched Jan 2026)*
+
+A multi-store product sync app letting merchants manage product, variant, inventory, and pricing data across multiple Shopify stores from a single source — with individual sync rules per connected shop. Built to handle the messy reality of running international expansion stores at scale.
+
+`5.0 ★ on the Shopify App Store` · Solo developer — architecture, backend, frontend, and Shopify integration end-to-end.
+
+**Internal Shopify App Template**
+
+Built our internal boilerplate for shipping production-grade Shopify apps fast. Next.js + TanStack on the frontend, Redis + BullMQ for background jobs and scheduling, and an event-driven app bus tying it all together. Typed end-to-end in TypeScript, with built-in webhook handling and retries, structured logging, CI/CD pipelines, and a testing setup ready out of the box.
+
+Built solo. Now the foundation behind every new Shopify app we ship — turning repeated production pain into a one-command starting point and standardizing the team's stack and patterns.
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
