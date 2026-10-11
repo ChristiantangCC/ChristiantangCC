@@ -14,10 +14,11 @@ I lead engineering at **Edition**, a Shopify Premier Partner in Denmark, where w
 I'm hands-on. Most days I'm in the code, shipping apps, integrations and the services behind them.
 
 My path here:
-- Self-taught roots: freelance **WordPress / PHP** builds for small clients (~2–3 years)
-- Joined Edition as a **Frontend Developer** (2 years)
-- Moved into **Backend / Full-stack** (2 years)
-- **CTO** since January 2026
+- Self-taught roots: freelance **WordPress / PHP** builds for small clients
+- Joined Edition (formerly Ejlskov Design) as an **intern**
+- Landed a full-time role as **Frontend Developer**
+- Moved into **Backend / Full-stack**
+- Stepped up as **CTO**, leading the engineering team
 
 What I care about most is pragmatic architecture: systems that are fast, simple to operate and easy for the next developer to change.
 
