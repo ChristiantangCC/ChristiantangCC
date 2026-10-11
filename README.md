@@ -54,6 +54,16 @@ TypeScript web components with Vite and Tailwind CSS, and a GitHub Actions pipel
 
 ---
 
+## 🧰 Open Source
+
+**[tidyup](https://github.com/ChristiantangCC/tidyup)** · Rust CLI · [crates.io](https://crates.io/crates/tidyup)
+
+Frees up ports and disk space on a dev machine. `tidyup 3000` stops whatever is holding port 3000. `tidyup clean` finds old `node_modules`, `target` and `.venv` folders and deletes the ones you pick. The first run on my own machine gave back 48 GB. `tidyup up` starts a project's dev services from one file and stops all of them with ctrl-c, and a terminal dashboard does all of it in one screen.
+
+`cargo install tidyup` · Rust, ratatui, rayon · a single 1.5 MB binary
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**
