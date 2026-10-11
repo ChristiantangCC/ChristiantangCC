@@ -106,5 +106,5 @@ TypeScript web components with Vite and Tailwind CSS, and a GitHub Actions pipel
 Always open to a good conversation about systems, Shopify or a tricky engineering problem. LinkedIn or email works best.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-tang-christensen/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christiantangchristensen@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:christian@studiocc.dk)
 [![Studio CC](https://img.shields.io/badge/Studio_CC-111111?style=for-the-badge&logoColor=white)](https://studiocc.dk)
