@@ -7,7 +7,7 @@ Engineering leader with 7+ years shipping custom systems, Shopify apps and integ
 
 ---
 
-## 👋 About
+## About
 
 I lead engineering at **Edition**, a Shopify Premier Partner in Denmark, where we build Shopify apps, integrations and the systems behind modern e-commerce. I own the technical side of the business: architecture, platform, infrastructure and the standards we build by.
 
@@ -28,7 +28,7 @@ Alongside Edition, I take on a few independent projects through **[Studio CC](ht
 
 ---
 
-## 🚀 Selected Work
+## Selected Work
 
 **[Edition – Expansion Store Sync](https://apps.shopify.com/edition-expansion-store-sync)** · Shopify App Store *(live since Jan 2026)* · [case study](https://studiocc.dk/work/expansion-store-sync)
 
@@ -54,7 +54,7 @@ TypeScript web components with Vite and Tailwind CSS, and a GitHub Actions pipel
 
 ---
 
-## 🧰 Open Source
+## Open Source
 
 **[tidyup](https://github.com/ChristiantangCC/tidyup)** · Rust CLI · [crates.io](https://crates.io/crates/tidyup)
 
@@ -64,7 +64,7 @@ Frees up ports and disk space on a dev machine. `tidyup 3000` stops whatever is 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Frameworks**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -102,7 +102,7 @@ Frees up ports and disk space on a dev machine. `tidyup 3000` stops whatever is 
 
 ---
 
-## 🎯 What I focus on
+## What I focus on
 
 - **Software architecture**: event-driven systems, background job pipelines, rate limits handled at the source, and systems that are simple to operate and easy to change
 - **Shopify apps & integrations**: from a public App Store product to custom apps and the glue between business-critical platforms
@@ -111,7 +111,7 @@ Frees up ports and disk space on a dev machine. `tidyup 3000` stops whatever is 
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 
 Always open to a good conversation about systems, Shopify or a tricky engineering problem. LinkedIn or email works best.
 
